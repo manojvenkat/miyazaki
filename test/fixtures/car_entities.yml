@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  year: 1
+  fuel_type: MyString
+  mileage: 1
+  reg_no: MyString
+  listing_price: 1
+
+two:
+  name: MyString
+  year: 1
+  fuel_type: MyString
+  mileage: 1
+  reg_no: MyString
+  listing_price: 1
